@@ -1,5 +1,9 @@
 # rust
 
+## Books
+
+- https://doc.rust-lang.org/book/
+
 ## Repositories
 
 - https://github.com/antonybudianto/firebase-rs (Firebase Rust JWT crates package)
