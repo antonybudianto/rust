@@ -12,6 +12,7 @@
 - https://github.com/antonybudianto/hello-rust (Example with Vercel Rust, demo with [firebase-rs](https://github.com/antonybudianto/firebase-rs))
 - https://github.com/antonybudianto/swc-plugin-starter (Basic swc-plugin starter, based from swc_cli)
 - https://github.com/antonybudianto/swc-plugin-hello (Hello world swc-plugin for personal experimental playground)
+- https://github.com/antonybudianto/leetcode-rs (LeetCode solutions in Rust)
 
 ## License
 
