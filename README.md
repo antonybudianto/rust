@@ -3,6 +3,7 @@
 ## Books
 
 - https://doc.rust-lang.org/book/
+- https://github.com/google/comprehensive-rust
 - https://swc.rs/docs/plugin/ecmascript/getting-started (SWC Rust plugin)
 
 ## Repositories
